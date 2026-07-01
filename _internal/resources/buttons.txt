@@ -1,0 +1,10 @@
+0,RebarSpallation 
+1,CorrosionStain
+2,Spalling
+3,Crack
+4,Efflorescence
+5,Uncertain
+6,Vegetation
+7,ConcreteRot
+8,Complex
+9,Delamination
